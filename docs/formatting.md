@@ -302,7 +302,7 @@ Example arXiv paper:
 
 ## Appendices
 
-Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper. Generally, they should conform to the 2-column format. A possible exception is lengthy proofs, the readability of which would be decreased in 2-column format. 
+Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper. Appendices must conform to the 2-column format, with the exception of math-heavy sections (e.g., sections with theorem proofs or derivations), whose readability can be improved in a 1-column format.
 
 Letter the appendices in sequence and provide an informative title:
 
