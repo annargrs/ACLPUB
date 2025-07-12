@@ -125,7 +125,7 @@ The following table specifies what font sizes and styles must be used for each t
 | bibliography          | 10 pt     |       |
 | footnotes             | 9 pt      |       |
 
-For any text or numbers in tables and figures, whenever possible, please use the font size of the document text. As a rule of thumb, any text or numbers should be clearly readable when the paper is printed on A4 paper. Submissions that abuse the font size or spacing for figures/tables may be desk rejected.
+For any text or numbers in tables and figures, whenever possible, please use the font size of the document text. As a rule of thumb, any text or numbers should be clearly readable when the paper is printed on A4 paper. Submissions that abuse the font size, spacing for figures/tables, or non-human-visible text, may be desk rejected.
 
 ### Title and Authors
 
